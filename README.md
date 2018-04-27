@@ -1,2 +1,2 @@
 # hello-world
-yup
+yup started a GitHub account to learn about api
